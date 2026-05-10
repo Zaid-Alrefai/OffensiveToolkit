@@ -1,0 +1,8 @@
+recon_reports/
+*.txt
+!wordlist.txt
+__pycache__/
+*.pyc
+sftp_test.txt
+ftp_test_upload.txt
+ftp_test_download.txt
