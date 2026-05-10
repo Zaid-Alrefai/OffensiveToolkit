@@ -1,3 +1,5 @@
+# ETHICAL USE: This tool is for authorized lab/educational use only. Do not run against systems you do not own.
+
 import socket
 import urllib.request
 import os

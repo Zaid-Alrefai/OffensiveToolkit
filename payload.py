@@ -1,3 +1,5 @@
+# ETHICAL USE: This tool is for authorized lab/educational use only. Localhost only. Do not run against external systems.
+
 import socket
 import subprocess
 import sys
